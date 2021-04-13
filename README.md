@@ -1,10 +1,20 @@
 # Pandas Challenge
 
-The Panda Challenge choosen was **Heroes of Pymoli**
+The Pandas Challenge choosen was **Heroes of Pymoli**
 
+## Repository Table of Contents
+|Name|Description|
+|---|---|
+|**Images**|Folder with images|
+|**Resources/purchase_data.csv**|The data source to be analized|
+|**HeroesOfPymoli.ipynb**| Jupiter Notebook used to sketch, test, and for POC|
+|**HeroesOfPymoli_starter.ipynb**| Jupyter Notebook with the challenge solution|
+
+
+# Background
 ## Option 1: Heroes of Pymoli
 
-![Fantasy](Images/Fantasy.png)
+![Fantasy](../Images/Fantasy.png)
 
 Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
 
