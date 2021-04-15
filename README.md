@@ -94,6 +94,3 @@ The final report includes each of the following:
   * Item Price
   * Total Purchase Value
 
-
-* You must include a written description of three observable trends based on the data.
-## TODO include the 3 observable trends
