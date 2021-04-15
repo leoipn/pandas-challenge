@@ -9,7 +9,20 @@ The Pandas Challenge choosen was **Heroes of Pymoli**
 |**Resources/purchase_data.csv**|The data source to be analized|
 |**HeroesOfPymoli.ipynb**| Jupiter Notebook used to sketch, test, and for POC|
 |**HeroesOfPymoli_starter.ipynb**| Jupyter Notebook with the challenge solution|
+|**Obsevable Trends.md**| The written observable trends detected after the analysis |
 
+
+# Observable Trends
+
+* The mayor percentage of players are Male with the 84.03%
+![trend_1](HeroesOfPymoli/Images/trend_1.png)
+
+* The age of the users that most play games is between 20 to 24 years which are also the group with the highest total purchase value with $1,114.06.
+![trend_2](HeroesOfPymoli/Images/trend_2.png)
+![trend_3](HeroesOfPymoli/Images/trend_3.png)
+
+* The most profitable and popular item is **Final Citric** with *13* purchases with a total purchase value of *$59.99*.
+![trend_4](HeroesOfPymoli/Images/trend_4.png)
 
 # Background
 ## Option 1: Heroes of Pymoli
